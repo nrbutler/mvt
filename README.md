@@ -1,5 +1,8 @@
 # mvt
-Minimum Variability Timescale, from Golkhou et al.
+# Minimum Variability Timescale, from Golkhou et al. 2014 and 2015:
+#
+# https://iopscience.iop.org/article/10.1088/0004-637X/787/1/90
+# https://iopscience.iop.org/article/10.1088/0004-637X/811/2/93
 
 from haar_power_mod import haar_power_mod
 from numpy import loadtxt
